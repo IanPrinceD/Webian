@@ -9,22 +9,22 @@ Webian is built from the ground up, employing the elegance of vanilla coding to 
 
 Page Sections
 
-Home
+Home: 
 The Home section serves as the gateway, offering an immersive experience with an image that captures my essence, coupled with social links, buttons, and a welcoming introductory message.
 
-About
+About: 
 Navigate through the About section to gain insights into who I am. This space showcases a dynamic image, shedding light on the facets of web development that captivate me. Additionally, you'll find a button allowing you to download my curriculum vitae for a deeper dive into my professional journey.
 
-Skills
+Skills: 
 Dive into the Skills section, where I've categorized my capabilities into two columns: technical and professional skills. This succinct layout reflects the expertise that propels my achievements in web development.
 
-Projects
+Projects: 
 The Project section acts as a visual narrative of my past accomplishments and sets the stage for the exciting ventures to come. Explore the realm of my creativity through showcased projects, providing a glimpse into the diverse landscape of my work.
 
-Contact
+Contact: 
 Engage with me directly in the Contact section. Your messages are seamlessly transmitted to my spreadsheet, ensuring a swift and efficient means of communication. Feel free to reach out, and let's connect!
 
-Conclusion
+Conclusion: 
 Webian is more than just a website; it's a living documentation of my evolution in web development. I invite you to explore and get to know the intricacies that shape this digital space. Thank you for visiting, and I look forward to connecting with you!
 
 
