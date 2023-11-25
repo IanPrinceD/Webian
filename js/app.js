@@ -78,6 +78,7 @@ function emailSend() {
         title: 'Successful!',
         text: 'Message sent successfully!',
         icon: 'success',
+        confirmButtonColor: '#1e457c',
       });
       form.reset();
     } else {
